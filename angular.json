@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "hood"
+  "defaultProject": "hood",
+  "cli": {
+    "analytics": false
+  }
 }
